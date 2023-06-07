@@ -6,3 +6,4 @@
 |Grapes|157|5kg|
 |Orange |80|5kg|
 |Water Melon |60|6kg|
+|papaya |60|6kg|
