@@ -1,6 +1,4 @@
-| FRUIT NAME | PRICE( PER KG) | STOCK( IN BOXES) |
-|---|---|---|
-| MANGO | 50 | 50 | 
-| 002111001037 | MD AQIB | 80 | 
-| 002111001086 | AGNISH PAUL | 86 | 
-002111001040 | ASIF IKBAL | 86 | 
+|Name|Price/kg|stock|
+|Apples|60|10kg|
+|Mango|40|4kg|
+|Banana|50|1kg|
