@@ -5,3 +5,4 @@
 |Banana|50|1kg|
 |Grapes|57|5kg|
 |Orange |80|5kg|
+|Melon |60|6kg|
