@@ -1,1 +1,1 @@
-
+|Name|Price|stock|
